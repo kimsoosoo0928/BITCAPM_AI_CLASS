@@ -1,7 +1,7 @@
 import tensorflow as tf
 print(tf.__version__)
 
-tf.compat.v1.disable_eager_execution()
+tf.compat.v1.disable_eager_execution() # 즉시 실행 모드
 
 # print('hello world')
 
