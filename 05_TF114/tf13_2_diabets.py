@@ -49,4 +49,4 @@ print('r2_score : ', r2)
 
 sess.close()
 
-# r2_score :  0.4894763905862817
+# r2_score :  0.4894763905862817 
